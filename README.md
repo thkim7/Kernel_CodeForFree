@@ -4,7 +4,7 @@
 
 ### Branch
 1. 각자의 이름으로 브랜치 생성
-   - ex) Minsoo Lee
+   - ex) MinsooLee
 3. 폴더 이름은
    - SQL
    - JAVA
