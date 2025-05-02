@@ -1,6 +1,6 @@
-# Kernel_CodeSexer
+# Kernel_CodeForFree
 
-## 커널아카데미 코드섹서 모임
+## 코드 공유합시다, 무료로!
 
 ### Branch
 1. 각자의 이름으로 브랜치 생성
